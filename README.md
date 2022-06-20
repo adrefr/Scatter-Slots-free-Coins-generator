@@ -1,0 +1,1 @@
+# Scatter-Slots-free-Coins-generator
